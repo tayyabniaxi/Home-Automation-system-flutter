@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205894867966",
+    "project_id": "homeautomation-3c0fd",
+    "storage_bucket": "homeautomation-3c0fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205894867966:android:d09ce80d04007a5bc5beaf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_node_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-U_yT0w4D1PdLz9ydA27LWxNECpZgjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
